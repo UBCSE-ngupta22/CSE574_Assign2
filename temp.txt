@@ -1,0 +1,1 @@
+optimizer = optim.Adam(modelCNN.parameters(), lr=0.001)
